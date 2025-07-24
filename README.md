@@ -7,5 +7,6 @@ Este es el proyecto de prueba para el curso de Fundamentos de Programación.
 - **Lenguaje favorito:** Python
 - **Hobby:** jugar futbol
 # hola profe, como esta?
-- lfsdk
+
+> Este cambio fue hecho directamente desde la web de GitHub. ¡Qué cool!
 
